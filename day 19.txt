@@ -1,0 +1,13 @@
+Day 19
+
+Git
+Git is a version control too,used to keep track of the versions of files and directories
+(where each one can access each file and directories)
+
+Get workflow/architecture
+1.workspace->place where we can edit the file/change project releated files
+2.stagging area->intermidiate area where we can save the changes/temprary place where we save the changes
+3.git repo->actual version of fiels will be tracked using gitcommit command files will be moved to the local git repo
+
+repository means folder where we can place projected relatd files and directories
+
